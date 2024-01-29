@@ -1,0 +1,1 @@
+AutoJoinTeam = "Marines" -- Marines hoac Pirates
